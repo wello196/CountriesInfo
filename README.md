@@ -16,7 +16,7 @@ Interact with the live application directly in your browser:
 * **Structure:** HTML5 (Semantic containers matching dynamic data insert slots)
 * **Styling:** CSS3 (Featuring a custom pill-shaped search layout, flexbox wrapping distributions, hover translation animations, and fluid fade transitions)
 * **Logic Engine:** Asynchronous Vanilla JavaScript (ES6+)
-* **Data Source:** [REST Countries v2 API](https://restcountries.com/v2/)
+* **Data Source:** [https://restcountries.com/v2/]
 
 ---
 
